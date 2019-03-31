@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistan Professor at the Department of Mathematics and Statistics, Universidad Torcuato Di Tella. 
+I am an Assistant Professor at the Department of Mathematics and Statistics, Universidad Torcuato Di Tella. 
 
 My main research interests include:
 
