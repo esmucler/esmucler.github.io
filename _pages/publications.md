@@ -12,12 +12,12 @@ author_profile: true
 Theory and methodology
 ====
 
-###Pre-prints
+### Pre-prints
 - Christidis A., Lakshmanan, L., Smucler E. and Zamar R. (2017): Split Regularized Regression. Available [here](https://arxiv.org/abs/1712.03561).
 - Cohen Freue, G.V, Kepplinger, D., Salibian-Barrera, M. and Smucler, E. (2017): PENSE: A Penalized Elastic Net S-Estimator. Available [here](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
 - Smucler, E. (2017): Consistency of Generalized Dynamic Principal Components in Dynamic Factor Models. Available [here](https://arxiv.org/abs/1710.11286).
 
-###Published
+### Published
 - Peña, D., Smucler, E. and  Yohai V.J. (2019): Forecasting Multiple Time Series with One-Sided Dynamic Principal Components. Accepted at Journal of the American Statistical Association. Earlier version available [here](https://arxiv.org/abs/1708.04705).
 - Peña, D., Smucler, E. and  Yohai V.J. (2019): gdpc: gdpc: an R Package for Generalized Dynamic Principal Components. Accepted at Journal of Statistical Software.
 - Forzani, L., Rodriguez, D., Smucler, E. and Sued, M. (2019): Sufficient dimension reduction and prediction in regression: asymptotic results. Journal of Multivariate Analysis, 171, 339-349.
