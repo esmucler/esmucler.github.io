@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Software"
-excerpt: ""
-collection: software
+permalink: /software/
+author_profile: true
 ---
 
 I (co-)developed and mantain the following R packages available on CRAN.
