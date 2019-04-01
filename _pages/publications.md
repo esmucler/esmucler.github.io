@@ -19,10 +19,10 @@ Theory and methodology
 
 ### Published
 - Peña, D., Smucler, E. and  Yohai V.J. (2019): Forecasting Multiple Time Series with One-Sided Dynamic Principal Components. Accepted at Journal of the American Statistical Association. Earlier version available [here](https://arxiv.org/abs/1708.04705).
-- Peña, D., Smucler, E. and  Yohai V.J. (2019): gdpc: gdpc: an R Package for Generalized Dynamic Principal Components. Accepted at Journal of Statistical Software.
+- Smucler, E. (2019): Asymptotics for Redescending M-estimators in Linear Models with Increasing Dimension. Statistica Sinica, 29, 1065-1081. Earlier version available [here](https://arxiv.org/abs/1612.05951).
 - Forzani, L., Rodriguez, D., Smucler, E. and Sued, M. (2019): Sufficient dimension reduction and prediction in regression: asymptotic results. Journal of Multivariate Analysis, 171, 339-349.
+- Peña, D., Smucler, E. and  Yohai V.J. (2019): gdpc: gdpc: an R Package for Generalized Dynamic Principal Components. Accepted at Journal of Statistical Software.
 - Bura, E., Duarte, S., Forzani, L., Smucler, E. and Sued, M. (2018): Asymptotic Theory for Maximum Likelihood Estimates in Reduced-Rank Multivariate Generalized Linear Models. Statistics, 52, 1005-1024.
-- Smucler, E. (2018): Asymptotics for Redescending M-estimators in Linear Models with Increasing Dimension. Accepted at Statistica Sinica. Earlier version available [here](https://arxiv.org/abs/1612.05951).
 - Smucler, E. and Yohai, V.J. (2017): Robust and Sparse Estimators for Linear Regression Models. Computational Statistics & Data Analysis, 111, 116-130.
 - Smucler, E. and Yohai, V.J. (2015): Highly Robust and Highly Finite Sample Efficient Estimators for the Linear Model. In Modern Nonparametric, Robust and Multivariate Methods: Festschrift in Honour of Hannu Oja (Nordhausen, K. and Taskinen, S., eds.) 91-108. Springer, New York.
 
