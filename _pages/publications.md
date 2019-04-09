@@ -13,6 +13,8 @@ Theory and methodology
 ====
 
 ### Pre-prints
+- Smucler E., Rotnitzky A. and Robins J.M. (2019): A unifying approach for doubly-robust l1 regularized estimation of causal contrasts. Available [here](https://arxiv.org/abs/1904.03737)
+- Rotnitzky A., Smucler E. and Robins J.M. (2019): Characterization of parameters with a mixed bias property. Available [here](https://arxiv.org/abs/1904.03725)
 - Christidis A., Lakshmanan, L., Smucler E. and Zamar R. (2017): Split Regularized Regression. Available [here](https://arxiv.org/abs/1712.03561).
 - Cohen Freue, G.V, Kepplinger, D., Salibian-Barrera, M. and Smucler, E. (2017): PENSE: A Penalized Elastic Net S-Estimator. Available [here](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
 - Smucler, E. (2017): Consistency of Generalized Dynamic Principal Components in Dynamic Factor Models. Available [here](https://arxiv.org/abs/1710.11286).
