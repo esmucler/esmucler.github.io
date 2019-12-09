@@ -13,6 +13,7 @@ Theory and methodology
 ====
 
 ### Pre-prints
+- Rotnitzky A. and Smucler E. (2019): Efficient adjustment sets for population average treatment effect estimation in non-parametric causal graphical models. Available [here](https://arxiv.org/abs/1912.00306)
 - Smucler E., Rotnitzky A. and Robins J.M. (2019): A unifying approach for doubly-robust l1 regularized estimation of causal contrasts. Available [here](https://arxiv.org/abs/1904.03737)
 - Rotnitzky A., Smucler E. and Robins J.M. (2019): Characterization of parameters with a mixed bias property. Available [here](https://arxiv.org/abs/1904.03725)
 

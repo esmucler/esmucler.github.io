@@ -16,5 +16,5 @@ My main research interests include:
 - Dimension reduction techniques;
 - Causal inference.
 
-I am also Lead Data Scientist at [Aristas](http://www.aristas.com.ar/index-en.html), a Data Science and Machine Learning consultancy firm based in Buenos Aires.
+I am also Lead Data Scientist at [Aristas](http://www.aristas.com.ar), a Data Science and Machine Learning consultancy firm based in Buenos Aires.
 To find out more about what we do, reach me [here](mailto:e.smucler@aristas.com.ar).
