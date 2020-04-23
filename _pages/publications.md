@@ -24,7 +24,7 @@ Theory and methodology
 - Rotnitzky A., Smucler E. and Robins J.M. (2020): Characterization of parameters with a mixed bias property. Accepted at Biometrika. Earlier version available [here](https://arxiv.org/abs/1904.03725)
 - Peña, D., Smucler, E. and  Yohai V.J. (2020): gdpc: gdpc: an R Package for Generalized Dynamic Principal Components. Journal of Statistical Software.
 - Peña, D., Smucler, E. and  Yohai V.J. (2019): Forecasting Multiple Time Series with One-Sided Dynamic Principal Components. Journal of the American Statistical Association. Earlier version available [here](https://arxiv.org/abs/1708.04705).
-- Smucler, E. (2019+): Consistency of Generalized Dynamic Principal Components in Dynamic Factor Models. Statistics & Probability Letters. Earlier version available [here](https://arxiv.org/abs/1710.11286).
+- Smucler, E. (2019): Consistency of Generalized Dynamic Principal Components in Dynamic Factor Models. Statistics & Probability Letters. Earlier version available [here](https://arxiv.org/abs/1710.11286).
 - Christidis A., Lakshmanan, L., Smucler E. and Zamar R. (2019+): Split Regularized Regression. Accepted at Technometrics. Earlier version available [here](https://arxiv.org/abs/1712.03561).
 - Cohen Freue, G.V, Kepplinger, D., Salibian-Barrera, M. and Smucler, E. (2019): Robust elastic net estimators for variable selection and identification of proteomic biomarkers. Annals of Applied Statistics. Earlier version available [here](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
 - Smucler, E. (2019): Asymptotics for Redescending M-estimators in Linear Models with Increasing Dimension. Statistica Sinica. Earlier version available [here](https://arxiv.org/abs/1612.05951).
