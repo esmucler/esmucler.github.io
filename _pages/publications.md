@@ -16,12 +16,12 @@ Theory and methodology
 - Smucler E., Sapienza F. and Rotnitzky A. (2020): Efficient adjustment sets in causal graphical models with hidden variables. Available [here](https://arxiv.org/pdf/2004.10521.pdf).
 - Pinasco D., Smucler E. and Zalduendo I. (2020): Orthant probabilities and the attainment of maxima on a vertex of a simplex. Available [here](https://arxiv.org/pdf/2004.04682.pdf).
 - Somacal A., Boechi, L., Jonckheere M., Lefieux, V., Picard, D. and Smucler E. (2019): Uncovering differential equations from data with hidden variables. Available [here](https:https://arxiv.org/pdf/2002.02250.pdf).
-- Rotnitzky A. and Smucler E. (2019): Efficient adjustment sets for population average treatment effect estimation in non-parametric causal graphical models. Available [here](https://arxiv.org/abs/1912.00306).
 - Smucler E., Rotnitzky A. and Robins J.M. (2019): A unifying approach for doubly-robust l1 regularized estimation of causal contrasts. Available [here](https://arxiv.org/abs/1904.03737).
 
 
 ### Published
-- Rotnitzky A., Smucler E. and Robins J.M. (2020): Characterization of parameters with a mixed bias property. Accepted at Biometrika. Earlier version available [here](https://arxiv.org/abs/1904.03725).
+- Rotnitzky A. and Smucler E. (2020): Efficient adjustment sets for population average treatment effect estimation in non-parametric causal graphical models. Journal of Machine Learning Research. Earlier version available [here](https://arxiv.org/abs/1912.00306).
+- Rotnitzky A., Smucler E. and Robins J.M. (2020): Characterization of parameters with a mixed bias property. Biometrika. Earlier version available [here](https://arxiv.org/abs/1904.03725).
 - Peña, D., Smucler, E. and  Yohai V.J. (2020): gdpc: gdpc: an R Package for Generalized Dynamic Principal Components. Journal of Statistical Software.
 - Peña, D., Smucler, E. and  Yohai V.J. (2019): Forecasting Multiple Time Series with One-Sided Dynamic Principal Components. Journal of the American Statistical Association. Earlier version available [here](https://arxiv.org/abs/1708.04705).
 - Smucler, E. (2019): Consistency of Generalized Dynamic Principal Components in Dynamic Factor Models. Statistics & Probability Letters. Earlier version available [here](https://arxiv.org/abs/1710.11286).
