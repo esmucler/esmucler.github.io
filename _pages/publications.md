@@ -22,7 +22,7 @@ Theory and methodology
 ### Published
 - Rotnitzky A. and Smucler E. (2020): Efficient adjustment sets for population average treatment effect estimation in non-parametric causal graphical models. Journal of Machine Learning Research. Earlier version available [here](https://arxiv.org/abs/1912.00306).
 - Rotnitzky A., Smucler E. and Robins J.M. (2020): Characterization of parameters with a mixed bias property. Biometrika. Earlier version available [here](https://arxiv.org/abs/1904.03725).
-- Peña, D., Smucler, E. and  Yohai V.J. (2020): gdpc: gdpc: an R Package for Generalized Dynamic Principal Components. Journal of Statistical Software.
+- Peña, D., Smucler, E. and  Yohai V.J. (2020): gdpc: an R Package for Generalized Dynamic Principal Components. Journal of Statistical Software.
 - Peña, D., Smucler, E. and  Yohai V.J. (2019): Forecasting Multiple Time Series with One-Sided Dynamic Principal Components. Journal of the American Statistical Association. Earlier version available [here](https://arxiv.org/abs/1708.04705).
 - Smucler, E. (2019): Consistency of Generalized Dynamic Principal Components in Dynamic Factor Models. Statistics & Probability Letters. Earlier version available [here](https://arxiv.org/abs/1710.11286).
 - Christidis A., Lakshmanan, L., Smucler E. and Zamar R. (2019+): Split Regularized Regression. Accepted at Technometrics. Earlier version available [here](https://arxiv.org/abs/1712.03561).
